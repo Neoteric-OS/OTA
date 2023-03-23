@@ -1,0 +1,21 @@
+Device Changes:-
+* Ship Aperture Camera (LineageOS Camera)
+* Fix issues with GCAM
+
+Source Changes:-
+* Fixed face unlock issues with SIM lock
+* Added lockscreen clock formats
+* Added lockscreen clock fonts
+* Added lockscreen pulse (Music bars)
+* Added Heads Up customisations
+* Added Ambient Notification timeout
+* Added Narrow IME space
+* Added QS Bluetooth dialog
+* Added WiFi and Bluetooth timeout
+* Added data disabled indicator icon switch
+* Added Alert Slider blocking in pocket mode
+* Added Alert Slider Pulse dialog (Shows up on ambient display)
+* Added Partial Screenshot
+* Added screenshot dismiss and lens button
+* Added lockscreen shortcut buttons
+* Fix flashlight QS tile
