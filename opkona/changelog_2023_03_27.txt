@@ -1,0 +1,7 @@
+Device changelog:-
+*Switch back to stock adreno blobs
+*Ship correct NFC firmware
+
+Source changelog:-
+*Added system icon shapes
+*Fixup mobile data qs tile
