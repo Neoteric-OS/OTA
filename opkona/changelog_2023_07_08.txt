@@ -1,0 +1,10 @@
+Source changelog:-
+* Merged to July Patch (android-13.0.0_r63)
+* Merged LA.QSSI.13.0.r1-10700-qssi.0 CLO system tag
+* Updated vendor to LA.VENDOR.13.2.0.r1-16900-KAILUA.0 
+* Remove clock and brightness slider customisation
+* Add secure power menu, per app volume, per app network restriction and Smart5G
+
+Device changelog:-
+* Add native aosp automatic hbm support (Changing kernel will break it)
+* Fix wifi display not working.
