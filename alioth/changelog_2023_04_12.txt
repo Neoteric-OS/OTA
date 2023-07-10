@@ -1,6 +1,0 @@
-Device Changelog,:-
-*Improved Device Performance
-*Killed Many Logspams
-*AOD limit To 60h
-*Disabled Burnin Protection
-z

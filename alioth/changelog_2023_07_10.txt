@@ -1,0 +1,6 @@
+Device Changelogs:
+- Blobs from 14.0.7.0
+- Switch to common vibrator
+- sync with gps-legacy component
+- Switch to charging Component(common)
+- Added thermal touch controls(gaming)
