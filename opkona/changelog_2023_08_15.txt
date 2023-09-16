@@ -1,3 +1,0 @@
-Device Changelog:-
-*Enable dexpreopt again
-*Also support ext4 userdata as well
