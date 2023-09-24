@@ -1,0 +1,7 @@
+Device Changelogs
+* All Pixel goodies included (Clear calling, Quick Tap....
+* Fixed dim missing from dialog windows
+* Added in-app face unlock support
+
+Source Changelogs
+* Latest security patch (September 2023)
