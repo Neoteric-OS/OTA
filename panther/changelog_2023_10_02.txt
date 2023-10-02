@@ -1,0 +1,14 @@
+Device Changelogs
+* Disabled blur for better performance (plus it's broken anyways xd)
+* Implement Pixel Tensor Audio Decompressor tunings
+* Added Google Fi support
+* Under the hood improvements
+
+Source Changelogs
+* Added material dismiss button to QS + haptic feedback on it
+* Added an option to enable haptic feedback for wake-up gestures
+* Added an option to disable swipe to screenshot on ambient display
+* Added an option to single click lockscreen shortcuts
+* Added back Android Beam
+* Disabled Quick Pick-up gesture (should reduce the amount of random pulses)
+* Fix Allow to pulse on new tracks
