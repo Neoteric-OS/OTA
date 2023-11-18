@@ -1,0 +1,11 @@
+Device changes:
+-Updated KernelSU
+-The kernel dead lock situation has not been adressed yet, provide DMESG logs if this occurs
+
+Source changes:
+-Uprev CLO tag to LA.QSSI.13.0.r1-12100-qssi.0 (November security patch)
+-Uprev AOSP tag to android-13.0.0_r83 (November security patch)
+-Change build props to spoof to Nexus 5X (Device attestation fixed for now)
+-Change spoofing from Pixel 7 Pro to Pixel 8 Pro
+-Fix a case where GMS could drain battery with unwanted installs of APEX updates
+
