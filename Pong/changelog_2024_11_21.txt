@@ -1,0 +1,7 @@
+Source changelog:-
+* Disable FRP enforcement
+* Fix NFC QS Tile
+* Fix live caption button not appearing in volume panel
+* Fix hide screen capture status switch
+* QS tiles on lockscreen are now visible when using secure qs tiles
+* Attempt to fix UI lags due to refresh rate changes
