@@ -1,0 +1,9 @@
+Source changelog:-
+• Settings/Platform apps moving over to Material3 switches (currently if you check settings you can see that switches are different for the settings for features we added and the aosp ones)
+
+• AppListFragment (For heads up, full-screen apps, hide dev options etc.) now uses switch instead of checkbox
+
+• System wide app lock (no more reliant on the launcher)
+
+Device changelog:-
+• Stronger 100ms+ vibration
