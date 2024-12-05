@@ -1,0 +1,12 @@
+Source changelog:-
+* Fixed brightness slider positioning
+* Fixed biometric prompt padding
+* Use Google's Material colors for QS
+* Fix inconsistent QS colors
+* Added bluetooth tile behaviour options
+* Use S24U spoof for pubg & codm for 120fps
+* Added at a glance (smartspace) in launcher
+* Added auto keyboard popup in app drawer in launcher
+
+Device changelog:-
+* Fixed long duration vibration intensity
