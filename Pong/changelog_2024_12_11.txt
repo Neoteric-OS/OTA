@@ -1,0 +1,9 @@
+Source changelog:-
+* Fix edge light custom color not applying
+* Update fingerprint to pass device integrity
+* Add haptics to more elements
+* Fix crash after enrolling fp if face unlock is enabled
+* Performance enhancements
+* Fix package cache related issues
+* Add overview scale animation in recents
+* Redesign Settings page
