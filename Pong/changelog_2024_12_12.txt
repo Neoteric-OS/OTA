@@ -1,0 +1,4 @@
+Source changelog:
+• Added fling scroll haptics (can be turned off dw)
+• Added CTS on Launcher3
+• Add start padding to status bar notification icon area
