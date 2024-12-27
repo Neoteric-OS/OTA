@@ -1,0 +1,5 @@
+Source changelog:-
+
+* Reduce QS lag
+* Extend scalable grids to 5+ column grids as well
+* Adapt launcher elements for black theme (App drawer and widget picker)
