@@ -1,0 +1,9 @@
+* Intial build for apollo
+
+Source:
+* Add statusbar lyric
+* Import chinese translation
+
+Device:
+* Dolby included
+* No MIUI Camera for now
