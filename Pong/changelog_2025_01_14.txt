@@ -1,0 +1,14 @@
+Source changelog:-
+* Merged LA.QSSI.15.0.r1-13200-qssi.0 system tag (December patch)
+* Introduce battery share limit based on battery percentage on supported devices
+* Fixup recents animation in launcher
+* Fixup launcher paddings and dimensions
+* App info in recents now directly opens instead of opening a bottomsheet dialog (Like in app drawer)
+* AptX connection preferences added
+* New volume panel design
+
+Device changelog :-
+* Updated to NOS 3.0 blobs
+* Make haptics a little stronger
+* Fix vibrator voltage after calls (Fixes the back glass vibration issue completely)
+* Support for qcom codecs added back (AptX Adaptive etc.)
