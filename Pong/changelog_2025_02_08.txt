@@ -1,0 +1,6 @@
+Source changelog:-
+• Updated to jan sec patch
+• Fixed an issue where alarm volume region was not touchable in volume panel
+• New brightness slider UI in QS
+• Updated play integrity fp
+• New aptx preferences UI (i can't remember if this was rolled out before)
