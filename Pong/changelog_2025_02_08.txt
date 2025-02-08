@@ -4,3 +4,6 @@ Source changelog:-
 • New brightness slider UI in QS
 • Updated play integrity fp
 • New aptx preferences UI (i can't remember if this was rolled out before)
+
+FIXUP (Build released later today):-
+* Charging control causing soft reboots.
