@@ -1,0 +1,7 @@
+Source changelog:-
+* Merged LA.QSSI.15.0.r1-14400-qssi.0
+
+Device changelog:-
+* Fixup flashes on AOD
+* Torch max brightness has been reduced now
+* haptic and glyph are external modules again
