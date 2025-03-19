@@ -1,0 +1,7 @@
+Device changelog:-
+• New dolby app
+• Fixup glyph torch dying immediately when turning on during glyph music visualisation
+
+Source changelog:-
+• Ditch s24u game spoof
+• Launcher recent buttons show icons instead of text now
