@@ -1,0 +1,7 @@
+Source changelog:-
+* Add toggle to disable private DNS when using VPN
+* Use only icons instead of text in screenshot menu
+
+Device changelog:-
+* Reverted back to DolbyManager
+* Switch to qspm HIDL fixing up gpu app profiles and letting qspm actually work
