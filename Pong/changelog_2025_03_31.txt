@@ -1,0 +1,8 @@
+Device changelog:-
+* Tighter haptics and fix using long duration haptics
+
+Source changelog:-
+* Revert BT module changes back to LA.QSSI.15.0.r1-14400-qssi.0
+* Update more system components to LA.QSSI.15.0.r1-14500-qssi.0
+* Bring back s24u spoof for pubg
+* Fix CTS not working on a clean flash
