@@ -1,0 +1,4 @@
+Source changelog :-
+* Fix chrome crash on clean flash
+* Added status bar notification ticker
+* Improved memory management (Improvements to LMKD)
