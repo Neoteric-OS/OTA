@@ -1,0 +1,8 @@
+Source changelog :-
+* Merged LA.QSSI.15.0.r1-15400-qssi.0
+* Fixup ticker notification stacking
+* Use material3 switches in every QS tile
+
+Device changelog :-
+* Glyph properly handles wakelocks now
+* Fix night tint or other color filters except color inversion behaving weirdly with lockscreen/fingerprint
