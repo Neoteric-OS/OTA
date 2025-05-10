@@ -1,0 +1,5 @@
+Source changelog:
+* Fixup updater app crash
+
+Device changelog:
+* Revert back to prebuilt audio stack
