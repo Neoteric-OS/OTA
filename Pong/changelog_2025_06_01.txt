@@ -1,0 +1,3 @@
+Changelog:-
+* Passes DEVICE_INTEGRITY out of the box now
+* May patch
