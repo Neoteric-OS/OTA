@@ -1,0 +1,14 @@
+Changelog:-
+• Fix WFD crashes
+• Fix gms crashes
+• Fix font not updating in QS
+• Cloned apps are now added
+• Fixup some media related crashes
+• Analog USB audio should be fixed
+• Fixup clock not animating after waking up from doze
+• Fixup flashbangs sometimes while waking up the device on light mode
+• Allow installation of some legacy apps
+
+Changelog (2nd build):-
+* Fixup play integrity
+* Fix volume panel rows colors
