@@ -1,0 +1,6 @@
+Changelog:-
+* Fix wired headphones not detecting
+* Change inactive volume row tint again
+
+Changelog (2nd build):-
+* Fix qs lag
