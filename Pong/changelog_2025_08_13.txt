@@ -1,0 +1,4 @@
+Changelog:-
+* Fix screen recording lag
+* Switch back to stock adreno gpu drivers
+* Optimize our custom nothing charging control
