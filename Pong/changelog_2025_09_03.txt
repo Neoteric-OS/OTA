@@ -1,0 +1,6 @@
+* Fixup Google Pay not working
+* Allow toggling QS data usage cycle
+* Use -O3 performance enhancements
+* New updater UI
+* Donation links have been added back to Settings->System->System updates
+* Settings are now rearranged for better access
