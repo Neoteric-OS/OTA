@@ -1,0 +1,2 @@
+* Fixup glyph wakelocks
+* Fixup BT audio stutters
