@@ -1,0 +1,4 @@
+* Added flashlight strength in flashlight QS tile
+* Added privacy indicator toggle
+* Added bluetooth bar toggle
+* Removed stock audio EQ tuning
