@@ -1,0 +1,2 @@
+* Fixup play integrity
+* Merged LA.QSSI.16.0.r1-09200-qssi.0
