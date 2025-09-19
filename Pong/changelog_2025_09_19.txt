@@ -1,0 +1,3 @@
+* Extend flashlight strength to every flashlight toggle in SystemUI
+* Allow long click on flashlight tile for flashlight strength adjustment
+* Use same icon size for both large and small tiles
