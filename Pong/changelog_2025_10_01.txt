@@ -1,0 +1,2 @@
+* Forced strong integrity works with google wallet now
+* Updated volte/vowifi icons with toggling support
