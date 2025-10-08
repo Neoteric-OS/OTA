@@ -1,0 +1,2 @@
+* Add toogle to disable forced strong integrity
+* Fix network traffic indicator behaviour, also remove its arrows
