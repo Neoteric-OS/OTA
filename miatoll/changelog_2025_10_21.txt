@@ -1,0 +1,8 @@
+* Fixes some media codec issues (eg: zoomed TikTok videos, Instagram story errors)
+* Moved to utilizing eBPF backports
+* Improvements to idle drain
+* Tuned CAF boosts for better efficiency
+* Refinements to traffic indicator layout
+* Better grid spacing for QS tiles
+* Fixes for PI and TrickyStore detection
+* Switched to split-notification shade
