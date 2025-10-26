@@ -1,0 +1,5 @@
+* Added lockscreen media art
+* Added LMO Freeform and Sidebar
+* Improved hiding of ADB and developer options 
+* Fixed attestation errors for some apps
+* Increased thermal thresholds for charging
