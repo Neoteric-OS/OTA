@@ -1,0 +1,4 @@
+* Switch to device keystore certs to get more apps working
+* Added lockscreen media art
+* Improved hiding of ADB and developer options 
+* Increased thermal thresholds for charging
