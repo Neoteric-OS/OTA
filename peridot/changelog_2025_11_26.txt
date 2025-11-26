@@ -1,0 +1,18 @@
+- Updated blobs from OS2.0.206.0.VNPMIXM
+- Fixed ring/alarm not coming when connected to bluetooth earphone
+- Fixed bluetooth LDAC detection issues
+- Fixed IR blaster not working
+- Fixed Home screen flickering when idle
+- Unusual battery drain and heating improved
+- Fixed Voip call not working. 
+- Force enable volte , vonr for unsupported carrier
+- Added PSI-based LMKD configuration
+- Implment QCOM custom doze
+- Fixed In-call on-speaker no sound coming
+- Implemented display feature color service
+- Launcher background blur is fixed
+- Qs icon in high dpi improved
+- Autobrightness improvements
+- Fixed speaker sound not restoring to previous level after incoming notification sound stops.
+- Fixed OK google detection
+- Fixed screen recorder not recording device audio
