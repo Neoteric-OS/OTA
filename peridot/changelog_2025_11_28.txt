@@ -1,0 +1,2 @@
+- Fixed USB tethering causing force reboot
+- Added Display saturation and color temperature control (settings/display/colors)
