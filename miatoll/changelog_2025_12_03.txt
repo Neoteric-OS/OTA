@@ -1,0 +1,10 @@
+* LA.QSSI.16.0.r1-10700-qssi.0
+* Removed conflicting themed icon overrides
+* Fixed alarm icon visibility in statusbar
+* Smoother notification panel expansion
+* Silk design for remaining network icons
+* Fixed statusbar clock font weight
+* Fixed operator video calling
+* Resolved incorrect colors in USB webcam
+* Improvements to memory management
+* Potential performance and efficiency gains
