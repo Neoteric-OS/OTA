@@ -1,0 +1,19 @@
+1- LA.QSSI.16.0.r1-10700-qssi.0
+2- Kernel: updated to Glacium-2.2
+3- Improvements to memory management
+4- Removed Display saturation and color temperature control (settings/display/colors)
+5- Added saturation control via parts
+6- Fixed statusbar clock font weight
+7- Updated and patched some Camera blobs for better processing
+8- Properly patched miui-camera apk
+9- Fixed double press on powerbutton to launch camera
+10- Rework fastcharge implementation (again)
+11- Fixed gpu freq cant go above 900 in gameboost kprofile plus mode
+12- Fixed kprofile plus tile not opening setting on holding the tile
+13- partially updated and patched graphics blobs
+14- partially updated vision blobs from houji 
+15- Fixed green line issue when watching content in netflix/prime
+16- Tuned dev-freq for balanced kprofile mode
+17- Changed scrren recorder avc codec profile
+18- Add MiHwcExtension HAL support
+19- Misc changes
