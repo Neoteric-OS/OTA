@@ -1,0 +1,11 @@
+1- Updated blobs from OS2.0.207.0.VNPMIXM
+2- Kernel: updated to Glacium-2.4
+3- Improvements to devfreq boost for better active and idle drain
+4- Impletemted focaltech game mode touch delay fix (still under testing)
+5- Fixed fastcharge implementation (forgot to add last update)
+6- updated some graphics blobs for better stability
+7- Improved cgroup tuning
+8- Implemented camera privacy toggle
+9- Updated pif properties and implement auto pif update option
+10- Fixed app hide from launcher(settings/apps/applock/../hide from launcher)
+11- Misc improvents
