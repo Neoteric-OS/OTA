@@ -1,0 +1,12 @@
+1- LA.QSSI.16.0.r1-11200-qssi.0
+2- Dec security patch
+3- Kernel: updated to Glacium-2.5
+4- Improvements to devfreq boost for better performance
+5- Fixed device as webcam
+6- Implemented new dolby manager app
+7- Implemented New gamebar v15
+8- Double incoming call no bug fix
+9- USSD code dialer fixed (may ot work for all carriers)
+10- Added hide ime space option
+11- Added toggle to disable inbuilt pip hooks
+12- Misc improvements
