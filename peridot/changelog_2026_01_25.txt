@@ -1,0 +1,7 @@
+1- Hotfix Build ,Hyperos 3 blobs and firmware based (OS3.0.3.0.WNPEUXM).
+2- Fixed camera issues and occasional crashes
+3- Fixed some apps not able to access location & GPS services
+4- Fixed VoIP and VoNR calling for some carriers
+5- Fixed no-incallsound in some cases
+6- Dolby profile reset issue fixed
+7- Fixed display occasopnal crashes
