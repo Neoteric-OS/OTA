@@ -1,0 +1,18 @@
+1- system: Update to LA.QSSI.16.0.r1-11700-qssi.0
+2- system: Update to LA.QSSI.16.0.r1-11800-qssi.0
+3- Updated blobs from Hyperos 3 global blobs OS3.0.4.0.WNPMIXM
+4- Updated and patched GNSS blobs from OS3.0.4.0.WNPMIXM
+5- Fixed GPS permission issues in some cases.
+6- Update and patched QESDK from OS3.0.4.0.WNPMIXM
+7- Fixed regional thermal profile mapping
+8- Kernel: Updated to 6.1.159-GlaciumKernel-2.9
+9- Updated Graphics blobs to v819
+10- New powertools v15.1 (full version)
+11- Powertools: Thermalprofile + thermal qs tile added
+12- Powertools: Kprofile + Kprofile qs tile added
+13- All optimizations fully now will be applied by kernel when switch using one kprofile
+14- Implemented k profile true 0 mode so when set 0 we can complete disable kprofile and stock kernel behaviour not just 0 > 2 fallback hack
+15- Implemented kprofile_mode 4 for Performence plus (most sustained performance)
+16- Powertools: Implement per-app GPU min/max frequency control
+17- Gaming thermal(thermal-tgame): Unlocked upto 1000 MHz (stock capped at 900 MHz)
+
