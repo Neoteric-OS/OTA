@@ -1,0 +1,15 @@
+1- vendor: Update to LA.VENDOR.14.3.0.r1-22900-lanai.QSSI16.0
+2- system: Update to LA.QSSI.16.0.r1-12300-qssi.0
+3- Updated blobs from Hyperos 3 global blobs OS3.0.5.0.WNPMIXM
+4- Kernel: Updated to 6.1.163-GlaciumKernel-3.8
+5- Updated Graphics blobs to v849
+6- Ptached Dolby blobs to reduce system resources and crash fix
+7- New powertools v16 (full version) with zen mode and custom zen profile support
+8- New Mi Battery Control Centre with charging limit support
+9- New GameBar With FPS record
+10- Restrict charging throttling at high battery temps
+11- Implement dexopt optimisation
+12- Fixed no Incoming call sound occasionally while using TWS
+13- Fixed FP not working in apps when more than 2 fp's added
+14- Sepolicy fixes and Misc improvements
+
