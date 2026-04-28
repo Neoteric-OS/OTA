@@ -1,0 +1,8 @@
+1- Update to LA.QSSI.16.0.r1-12900-qssi.0 
+2- Kernel Updated to latest 6.1.163-GlaciumKernel-4.0
+3- Add nonui notifier
+4- Updated zen modes decrease performence for balanced mode for better stability
+5- Increses interaction hints and perf zen more boost
+6- Fixed volte , vonr for some carriers causing network delay
+7- Fixed bluetooth crashing occasionally
+8- Updated gamebar with latest version
