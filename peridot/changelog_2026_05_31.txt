@@ -1,0 +1,23 @@
+1- [HOTFIX] Fixed hotspot and USB tethering auto-off issue.
+2- Updated to the latest Neoteric-OS source changes
+3- Updated kernel version to 6.1.166-GlaciumKernel-4.1
+4- Integrated native Droidspace container support into the kernel
+5- Implemented High Brightness Mode (HBM) and fixed an issue preventing HBM activation after waking from a low-power (LP) state
+6- Resolved occasional Bluetooth daemon crashes
+7- Updated and patched display blobs to address visual compatibility issues
+8- Reduced UI micro-stutters during high thermal scenarios
+9- Fixed multi-channel audio routing issues during calls and media playback
+10- Resolved a rare issue where auto-brightness could become unresponsive
+11- Fixed USB tethering connection dropping or becoming unresponsive on affected devices
+12- Refined Performance and Performance+ mode scaling behavior for better efficiency
+13- Updated WALT governor tuning parameters for smoother CPU scaling
+14- Improved scheduler latency and responsiveness under heavy CPU load
+15- Optimized GPU frequency scaling for sustained gaming performance
+16- Reduced unnecessary system wakeups to improve standby battery life
+17- Optimized UFS storage access and I/O scheduling performance
+18- Refined thermal throttling thresholds for progressive performance scaling
+19- Improved foreground task prioritization in the CPU scheduler
+20- Optimized battery charging thermal controls to prevent overheating and ensure proper throttling during fast charging
+21- Removed pre-installed Gamebar, ReVanced, ViPER4Android (ViperFX), BCR, Powertools and other implementations.
+22- Added a minimal implementation to switch Zen Modes via a Quick Settings (QS) tile
+23- Miscellaneous kernel-side optimizations and cleanups
