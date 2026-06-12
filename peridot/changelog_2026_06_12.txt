@@ -1,0 +1,17 @@
+1- Updated Security Patch Level to April 2026
+2- system: Updated to LA.QSSI.16.0.r1-13600-qssi.0 CLO merge tag
+3- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/opensource/dataipa
+4- Merged CLO tag 'DISPLAY.LA.4.0.r2-10100-lanai.0' into platform/hardware/qcom/display
+5- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/qcom-opensource/data-ipa-cfg-mgr
+6- Updated and patched display blobs
+7- Adjusted virtual memory (VM) and allocation parameters
+8- Upstreamed kernel version to 6.1.170
+9- Fixed Bluetooth issue causing drops in signal or sudden disconnect
+10- Backported CFS scheduler optimizations to reduce jitter and UI stutters under heavy load
+11- Upstream F2FS and EXT4 improvements
+12- Refined kernel memory management page reclaim
+13- Optimized CPU scheduling and task placement for improved UI responsiveness
+14- Reduced overall system memory usage under heavy multitasking cases
+15- Fixed minor frame drops during quick settings panel expansion and app transitions
+16- Optimized writeback performance and reduced storage I/O latency
+17- Fixed minor power consumption leaks during idle standby
