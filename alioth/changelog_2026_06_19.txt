@@ -1,0 +1,11 @@
+- Update perf component from aurora
+- Update system component to Update to LA.QISI.16.0.r2-00900-qssi.0
+- Update display blobs from LA.UM.9.12.r1-14400-SMxx50.QSSI12.0
+- Fix sepolicy denied
+- Move to QTI display component
+- Rollback to tetheroffload 1.0
+- Switch to AIDL memtrack
+- Fix Gcam
+- Partial Revert brightness configuration
+- Rollback to stock qdcm
+- Add missing vintf
